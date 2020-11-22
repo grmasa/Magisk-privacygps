@@ -1,0 +1,6 @@
+id=privacygps
+name=Privacy GPS File Replacer
+version=v1
+versionCode=1
+author=grmasa
+description=This module replaces the default GPS configuration file for better privacy.
